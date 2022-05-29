@@ -1,0 +1,8 @@
+@RELATION SanFranciscoTrainingData
+
+@ATTRIBUTE Date REAL
+@ATTRIBUTE Month REAL
+@ATTRIBUTE Year REAL
+@ATTRIBUTE CrimeCount Numeric
+
+@DATA

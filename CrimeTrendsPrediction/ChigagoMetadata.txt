@@ -1,0 +1,8 @@
+@RELATION ChicagoTrainingData
+
+@ATTRIBUTE Month REAL
+@ATTRIBUTE Date REAL
+@ATTRIBUTE Year REAL
+@ATTRIBUTE CrimeCount Numeric
+
+@DATA

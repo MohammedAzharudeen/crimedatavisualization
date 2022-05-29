@@ -1,0 +1,8 @@
+@RELATION PhiladelphiaTrainingData
+
+@ATTRIBUTE Year REAL
+@ATTRIBUTE Month REAL
+@ATTRIBUTE Date REAL
+@ATTRIBUTE CrimeCount Numeric
+
+@DATA
